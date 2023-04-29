@@ -2,7 +2,7 @@
   "name": "portfolio-haris",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://harisrahan9249.github.io/Haris_Portfolio/",
+  
   "scripts": {
     "dev": "next dev",
     "build": "next build",
